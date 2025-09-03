@@ -11,6 +11,11 @@ Write the complete image to disk.
 Deliverable: a working mkfs_builder.c that produces a valid .img.
 
 
+>
+>>
+>>>
+>>>>
+
 
 
 Member 2 → mkfs_adder (File Inserter)
@@ -27,7 +32,10 @@ Handle edge cases (no space, file > 12 blocks).
 
 Deliverable: a working mkfs_adder.c that adds files into the root directory.
 
-
+>
+>>
+>>>
+>>>>
 
 
 
